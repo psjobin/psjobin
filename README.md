@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://psjobin.github.io/index.html" target="_blank">home page</a>
+<a href="https://psjobin.github.io/index.html">home page</a>
 <ul>
     <li>C#</li>
     <li>SQL</li>
