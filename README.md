@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-Hi there <a style="text-decoration: none;" href="https://psjobin.github.io/index.html">🙋‍♂️</a>
+Hi there <a href="https://psjobin.github.io/index.html">🙋‍♂️</a>
 <!--
 **psjobin/psjobin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
