@@ -17,18 +17,6 @@ Here are some ideas to get you started:
 
 <a href="https://psjobin.github.io/index.html" target="_blank">home page</a>
 
-
-<div class="EmojiDiv">
-    <span onmouseover="hmmShow('I love tech.');" onmouseout="hmmHide();" style="cursor:pointer;">💻</span>
-    <span onmouseover="hmmShow('Travel the world.');" onmouseout="hmmHide();" style="cursor:pointer;">🗺️</span>
-    <span onmouseover="hmmShow('Share knowledge.');" onmouseout="hmmHide();" style="cursor:pointer;">👨‍🏫</span>
-    <span onmouseover="hmmShow('Love each other.');" onmouseout="hmmHide();" style="cursor:pointer;">❤️</span>
-    <span onmouseover="hmmShow('Yoga is good for the soul.');" onmouseout="hmmHide();" style="cursor:pointer;">🧘🏼‍♂️</span>
-    <span onmouseover="hmmShow('Oh...did I mention I love dogs... Click for prwoof!');" style="cursor:pointer;"
-    onmouseout="hmmHide();">🐕</span>          
-</div>
-
-
 <code><ul>
     <li>C#</li>
     <li>SQL</li>
@@ -48,3 +36,5 @@ Here are some ideas to get you started:
     <li>Visual Studio</li>
     <li>VS Code</li>
 </ul></code>
+
+❤️👨‍💻
