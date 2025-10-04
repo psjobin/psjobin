@@ -34,4 +34,16 @@ Here are some ideas to get you started:
     <li>Visual Studio</li>
     <li>VS Code</li>
 </ul>
+
+# Fun Projects! 
+
+ - Diffie–Hellman Key Exchange Demo [https://psj01.github.io/dh/](https://psj01.github.io/dh/)
+ - Encrypt [https://psj01.github.io/dh/](https://psj01.github.io/encrypt/)
+ - Percent diff [https://psj01.github.io/percentdiff/](https://psj01.github.io/percentdiff/)
+ - JSON to SQL Insert commands [https://psjobin.github.io/JSONtoSQLInserts/](https://psjobin.github.io/JSONtoSQLInserts/)
+ - YouTube subscriptions manager [https://psj01.github.io/ytsubs/](https://psj01.github.io/ytsubs/)
+
+ 
+
+
 ❤️👨‍💻
