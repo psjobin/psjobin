@@ -40,7 +40,8 @@ Here are some ideas to get you started:
  - Diffie–Hellman Key Exchange Demo [https://psj01.github.io/dh/](https://psj01.github.io/dh/)
  - Encrypt [https://psj01.github.io/encrypt/](https://psj01.github.io/encrypt/)
  - Percent diff [https://psj01.github.io/percentdiff/](https://psj01.github.io/percentdiff/)
- - JSON to SQL Insert commands [https://psjobin.github.io/JSONtoSQLInserts/](https://psjobin.github.io/JSONtoSQLInserts/)
+ - JSON to SQL Insert commands [https://psjobin.github.io/JSONtoSQLInserts/](https://psjobin.github.io/JSONtoSQLInserts/) - 
+ - SQL Insert commands [https://psjobin.github.io/sqlinserts/](https://psjobin.github.io/sqlinserts/)
  - YouTube subscriptions manager [https://psj01.github.io/ytsubs/](https://psj01.github.io/ytsubs/)
 
  
